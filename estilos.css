@@ -1,0 +1,58 @@
+
+@charset "utf-8";
+/* CSS Document */
+*{margin:30;
+padding:50;
+}
+*{color:white}
+h1{ font-family: Helvetica,  Arial, sans-serif;60px;}
+
+.centro {display: flex;
+ 
+}
+
+#titulo-principal {
+  color: #2E5A5A;
+  font-size:40px;
+  margin:20px
+}
+
+body {background-color: #FFF; 
+background-image:url(logo.jpg); background-repeat:repeat-x;}
+}
+h2{ font-family: Arial, helveltica, sans-serif; font-size:24px}
+}
+h3{ font-family: Arial, helveltica, sans-serif; font-size:18px}
+p1 {font-family: Verdana, Geneva, sans-serif;}
+* { color: black; font-size:20px; }
+p2 {font-family: "Palatino Linotype", "Book Antiqua", Palatino, seri; font-size: 15px }
+
+p3 {font-family:Arial, Helvetica, sans-serif; font-size:15px
+ .color-box {
+    background-color: white; /* Color de fondo */
+    color: navy; /* Color del texto */
+    padding: 10px; /* Espacio interno */
+    margin: 10px; /* Espacio externo */}
+	
+ list-style: {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif}	
+	
+ .main {
+  float: left;
+  width: 60%;
+  padding: 0 20px;
+  overflow: hidden;
+}
+.menuitem {
+  padding: 8px;
+  margin-top: 7px;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+.right {
+  background-color: #BBD5D3;
+  float: left;
+  width: 20%;
+  padding: 10px 15px;
+  margin-top: 7px;
+}
+img {whith: 200px; height:200px }
